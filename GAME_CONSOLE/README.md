@@ -16,4 +16,4 @@ Kratak opis: projekat ručne konzole (Arduino joystick + RetroPie).
    `sudo systemctl daemon-reload && sudo systemctl enable --now arduino-input.service`
 
 ## Video
-Biće naknadno: *(YouTube link)*.
+Biće naknadno: [*(YouTube link)*.](https://youtube.com/shorts/HdgQtF8e0pU)
